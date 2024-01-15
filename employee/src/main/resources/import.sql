@@ -1,0 +1,4 @@
+insert into employee(first_name, last_name, employment_date, salary) values ('Alexandra', 'Vacaru', PARSEDATETIME('26 Jul 2016, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'), 200000);
+insert into employee(first_name, last_name, employment_date, salary) values ('Olteanu', 'Ana-Maria', PARSEDATETIME('26 Jul 2016, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'), 4000);
+insert into employee(first_name, last_name, employment_date, salary) values ('Chitimus', 'Mara', PARSEDATETIME('26 Jul 2016, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'), 5000);
+insert into employee(first_name, last_name, employment_date, salary) values ('Filip', 'Ioana', PARSEDATETIME('26 Jul 2016, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'), 12000);

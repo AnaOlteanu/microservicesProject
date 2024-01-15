@@ -1,0 +1,6 @@
+insert into orders(details, country, client_name, employee_id, order_date) values ('details details', 'Romania', 'Mose Vlad', 1, PARSEDATETIME('26 Jul 2016, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'));
+insert into orders(details, country, client_name, employee_id, order_date) values ('new shipment', 'Italy', 'Simion Andrei', 1, PARSEDATETIME('29 Jul 2016, 09:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'));
+insert into orders(details, country, client_name, employee_id, order_date) values ('no details', 'Romania', 'Popescu Ion', 2, PARSEDATETIME('26 Jul 2018, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'));
+insert into orders(details, country, client_name, employee_id, order_date) values ('more details', 'France', 'Ionescu Andra', 3, PARSEDATETIME('26 Jul 2016, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'));
+insert into orders(details, country, client_name, employee_id, order_date) values ('delivery express', 'Romania', 'Alexandrescu Ioana', 3, PARSEDATETIME('25 Aug 2017, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'));
+insert into orders(details, country, client_name, employee_id, order_date) values ('urgent delivery', 'Romania', 'Radu Alexandru', 3, PARSEDATETIME('14 Jul 2019, 05:15:58 AM','dd MMM yyyy, hh:mm:ss a','en'));
